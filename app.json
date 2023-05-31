@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "harry-potter",
-    "slug": "harry-potter",
+    "slug": "lrag14",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cf0abf74-ad02-4272-9d38-c4329fd1aee3"
+      }
+    },
+    "owner": "lrag"
   }
 }
