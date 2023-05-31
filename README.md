@@ -2,4 +2,4 @@
 
 ## Gallery / Cool things
 
-https://youtube.com/shorts/6iEpxEL4M44
+![alt text](https://youtube.com/shorts/6iEpxEL4M44)
