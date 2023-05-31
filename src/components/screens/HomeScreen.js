@@ -36,7 +36,7 @@ export default function HomeScreen({ navigation }) {
             source={require('../../../assets/bgRound.png')}
             style={styles.backgroundImage}>
             <FlatList
-               data={data.slice(0, 9)}
+               data={data}
                renderItem={({ item }) => (
                   <TouchableOpacity
                      style={styles.characterContainer}
