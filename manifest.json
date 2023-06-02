@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "harry-potter",
+  "short_name": "harry-potter",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.lrag.lrag14"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.lrag.lrag14",
+      "id": "com.lrag.lrag14"
+    }
+  ],
+  "prefer_related_applications": true
+}

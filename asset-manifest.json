@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/reactNative_harryPotter/static/js/main.7c7a25b3.js",
+    "static/js/430.45c3f6fc.js": "/reactNative_harryPotter/static/js/430.45c3f6fc.js",
+    "static/media/Ravenclaw.png": "/reactNative_harryPotter/static/media/Ravenclaw.49cd888a5a3675ed2fdf.png",
+    "static/media/Hufflepuff.png": "/reactNative_harryPotter/static/media/Hufflepuff.ea296e68fee841a311f9.png",
+    "static/media/Gryffindor.png": "/reactNative_harryPotter/static/media/Gryffindor.a620c15dad0a54bd8b41.png",
+    "static/media/Slytherin.png": "/reactNative_harryPotter/static/media/Slytherin.ba9976d061dd4bbc1d7f.png",
+    "static/media/bgRound.png": "/reactNative_harryPotter/static/media/bgRound.618b65d15ec4c523cb5b.png",
+    "favicon.ico": "/reactNative_harryPotter/favicon.ico",
+    "index.html": "/reactNative_harryPotter/index.html",
+    "favicon-32.png": "/reactNative_harryPotter/favicon-32.png",
+    "favicon-16.png": "/reactNative_harryPotter/favicon-16.png",
+    "manifest.json": "/reactNative_harryPotter/manifest.json",
+    "serve.json": "/reactNative_harryPotter/serve.json",
+    "main.7c7a25b3.js.map": "/reactNative_harryPotter/static/js/main.7c7a25b3.js.map",
+    "430.45c3f6fc.js.map": "/reactNative_harryPotter/static/js/430.45c3f6fc.js.map"
+  },
+  "entrypoints": [
+    "static/js/430.45c3f6fc.js",
+    "static/js/main.7c7a25b3.js"
+  ]
+}
